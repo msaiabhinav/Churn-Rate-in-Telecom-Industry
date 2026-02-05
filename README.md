@@ -41,5 +41,3 @@ Models were evaluated using validation AUC to ensure strong generalization.
 The complete project report is available in this repository:
 predictive_modelling_project_final.pdf
 
-## 👤 Author
-Sai Abhinav
